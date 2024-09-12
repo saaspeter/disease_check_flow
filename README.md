@@ -24,4 +24,4 @@ I want to use embedding matching, but should do each symptom's embedding search,
 Is there any opensource framework which is able to do embedding query/compare on entities of knowledge graph db?
 
 The supposed knowledge graph like below:
-![disease knowledge graph](./images/disease_check_flow.png)
+![disease knowledge graph](./images/disease_symptom_demo.png)
